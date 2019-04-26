@@ -1,0 +1,6 @@
+#备份目录固定根文件路径
+rootDir: 'D://魔界更新//backup'
+#要清理的月份日期
+monthNum: 1
+#要保留星期几的文件
+weekdayNum: 1
